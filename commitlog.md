@@ -1,6 +1,7 @@
-## 2015.10.24
+## 2015.10.25
 
 * [경범](https://gist.github.com/ultimate1352/57c8d1e659ef68759334)
+* [현태](https://gist.github.com/waynejo/e563334b31955446530a)
 
 ## 2015.10.18
 
