@@ -1,3 +1,7 @@
+## 2016.01.24
+
+* [경범](https://gist.github.com/ultimate1352/468d01f31e4fa058b20b)
+
 ## 2016.01.10
 
 * [경범](https://gist.github.com/ultimate1352/edb4a69436b61ddbd42d)
